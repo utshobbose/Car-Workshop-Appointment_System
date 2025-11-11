@@ -62,7 +62,6 @@ The backend ensures only verified, available mechanics appear for booking — an
   * `mechanics` — manages mechanic data and schedules
   * `appointments` — tracks bookings
 
-<img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/e20c45af-10a6-446d-b872-fc0376f2f35f" />
 
 
 ---
