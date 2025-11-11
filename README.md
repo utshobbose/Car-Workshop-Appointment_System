@@ -4,7 +4,8 @@ A **Next.js + Express.js** full-stack web application for managing car service a
 Users can **book appointments by date, time, and preferred mechanic**, with real-time availability tracking.
 The system guarantees a **reliable, A-class service** experience by preventing double-booking and restricting bookings to **authenticated users only**.
 
-![Homepage Screenshot](./assets/homepage.png)
+<img width="1343" height="635" alt="image" src="https://github.com/user-attachments/assets/1fff4120-3c1e-41e4-aee0-ae8f8e8b4e88" />
+
 
 ---
 
@@ -35,8 +36,10 @@ The backend ensures only verified, available mechanics appear for booking — an
 * Users must be authenticated before booking an appointment
 * Unauthorized users cannot access appointment functions
 
-![Login Page Screenshot](./assets/login.png)
-![Appointment Page Screenshot](./assets/appointment.png)
+<img width="1356" height="632" alt="image" src="https://github.com/user-attachments/assets/c8214c96-8221-491e-ab91-65aa93450be9" />
+
+<img width="1356" height="631" alt="image" src="https://github.com/user-attachments/assets/61b3316a-a3aa-4f8f-aa64-d9e883d1c123" />
+
 
 ### 🧑‍🔧 Mechanic Availability
 
@@ -59,7 +62,8 @@ The backend ensures only verified, available mechanics appear for booking — an
   * `mechanics` — manages mechanic data and schedules
   * `appointments` — tracks bookings
 
-![MongoDB Screenshot](./assets/mongodb.png)
+<img width="1358" height="632" alt="image" src="https://github.com/user-attachments/assets/e20c45af-10a6-446d-b872-fc0376f2f35f" />
+
 
 ---
 
