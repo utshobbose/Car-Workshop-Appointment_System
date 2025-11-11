@@ -1,10 +1,3 @@
-Perfect — those screenshots give a clear sense of your project’s **UI and functionality**, and that final note (“users must be authenticated before booking appointments”) is an important feature.
-
-Here’s the **final, fully polished `README.md`** you can directly upload to your GitHub repo [`utshobbose/Car-Workshop`](https://github.com/utshobbose/Car-Workshop).
-It includes visuals, live authentication notes, and the MongoDB integration detail.
-
----
-
 # 🚗 Car Workshop — Appointment Booking System
 
 A **Next.js + Express.js** full-stack web application for managing car service appointments.
