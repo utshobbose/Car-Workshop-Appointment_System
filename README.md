@@ -36,10 +36,9 @@ The backend ensures only verified, available mechanics appear for booking — an
 * Users must be authenticated before booking an appointment
 * Unauthorized users cannot access appointment functions
 
-<img width="1356" height="632" alt="image" src="https://github.com/user-attachments/assets/c8214c96-8221-491e-ab91-65aa93450be9" />
-
 <img width="1355" height="632" alt="image" src="https://github.com/user-attachments/assets/b13e3cfb-a39e-4909-8406-4b18ebc427d3" />
 
+<img width="1356" height="632" alt="image" src="https://github.com/user-attachments/assets/c8214c96-8221-491e-ab91-65aa93450be9" />
 
 
 ### 🧑‍🔧 Mechanic Availability
