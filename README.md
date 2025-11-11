@@ -38,7 +38,8 @@ The backend ensures only verified, available mechanics appear for booking — an
 
 <img width="1356" height="632" alt="image" src="https://github.com/user-attachments/assets/c8214c96-8221-491e-ab91-65aa93450be9" />
 
-<img width="1356" height="631" alt="image" src="https://github.com/user-attachments/assets/61b3316a-a3aa-4f8f-aa64-d9e883d1c123" />
+<img width="1355" height="632" alt="image" src="https://github.com/user-attachments/assets/b13e3cfb-a39e-4909-8406-4b18ebc427d3" />
+
 
 
 ### 🧑‍🔧 Mechanic Availability
